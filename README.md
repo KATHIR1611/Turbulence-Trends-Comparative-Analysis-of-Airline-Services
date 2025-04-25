@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project aims to analyze and compare **IndiGo Airlines** and **United Airlines**, both operating under the **Star Alliance** umbrella. By leveraging customer reviews, fleet data, financial information, and advanced sentiment analysis techniques, this project provides insights into airline performance and customer experience.
+This project aims to analyze and compare **IndiGo Airlines** and **United Airlines**, both operating under the **Star Alliance** umbrella. By leveraging customer reviews, fleet data, financial information, and advanced sentiment analysis techniques, this project provides insights into airline performance and customer experience. The project was developed in the Deepnote environment, which offers real-time collaboration and seamless integration with data science tools for efficient analysis and visualization.
 
 ## Objectives
 
@@ -57,9 +57,11 @@ This project aims to analyze and compare **IndiGo Airlines** and **United Airlin
 
 ## Project Visuals
 
-![Sentiment Breakdown](path/to/your/sentiment-breakdown-image.png)
+![](https://github.com/KATHIR1611/Turbulence-Trends-Comparative-Analysis-of-Airline-Services/blob/main/IndiGo%20Airlines/Screenshot%202025-04-25%20182434.png)
 
-![Fleet Analysis](path/to/your/fleet-analysis-image.png)
+![](https://github.com/KATHIR1611/Turbulence-Trends-Comparative-Analysis-of-Airline-Services/blob/main/IndiGo%20Airlines/Screenshot%202025-04-25%20183447.png)
+
+![](https://github.com/KATHIR1611/Turbulence-Trends-Comparative-Analysis-of-Airline-Services/blob/main/IndiGo%20Airlines/Screenshot%202025-04-25%20183545.png)
 
 
 ## Key Insights
